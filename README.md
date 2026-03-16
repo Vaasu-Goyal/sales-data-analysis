@@ -1,5 +1,4 @@
 # sales-data-analysis
-
 Questions to Solve
 
 What product line generates the most revenue?
